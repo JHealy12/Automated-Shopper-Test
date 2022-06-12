@@ -17,5 +17,8 @@
   "homepage": "https://github.com/JHealy12/Automated-Shopper-Test#readme",
   "devDependencies": {
     "@playwright/test": "^1.22.2"
+  },
+  "dependencies": {
+    "unique-username-generator": "^1.1.1"
   }
 }
