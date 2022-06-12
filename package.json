@@ -1,0 +1,21 @@
+{
+  "name": "automated-shopper-test",
+  "version": "1.0.0",
+  "description": "Automate This Site https://www.demoblaze.com/index.html",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHealy12/Automated-Shopper-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JHealy12/Automated-Shopper-Test/issues"
+  },
+  "homepage": "https://github.com/JHealy12/Automated-Shopper-Test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2"
+  }
+}
