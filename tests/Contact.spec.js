@@ -1,4 +1,4 @@
-//Contact Test 
+//Contact Test  
 const { test, expect } = require('@playwright/test');
 
 test.beforeEach(async ({ page }) => {
